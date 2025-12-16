@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "200%",
+  "base_artist": "악동뮤지션",
+  "createdAt": "2025-12-16T17:13:52.745625Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "200 More Miles",
+      "artist": "Cowboy Junkies",
+      "has_synced": true,
+      "path": "select/01_200_More_Miles_Cowboy_Junkies.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "200,000 (in counterfeit 50 dollar bills)",
+      "artist": "Citizen Cope",
+      "has_synced": true,
+      "path": "select/02_200,000_(in_counterfeit_50_dollar_bills)_Citizen_Cope.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "200",
+      "artist": "Diplo",
+      "has_synced": false,
+      "path": "select/03_200_Diplo.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "200",
+      "artist": "Future feat. Young Thug",
+      "has_synced": true,
+      "path": "select/04_200_Future_feat._Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "200",
+      "artist": "Future & Young Thug",
+      "has_synced": true,
+      "path": "select/05_200_Future_&_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "200 Years",
+      "artist": "Accept",
+      "has_synced": true,
+      "path": "select/06_200_Years_Accept.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "200 Balloons",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/07_200_Balloons_Prince.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "200 Years",
+      "artist": "Skinny Puppy",
+      "has_synced": false,
+      "path": "select/08_200_Years_Skinny_Puppy.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "200 Press",
+      "artist": "James Blake",
+      "has_synced": false,
+      "path": "select/09_200_Press_James_Blake.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "200 Bars",
+      "artist": "Spiritualized",
+      "has_synced": true,
+      "path": "select/10_200_Bars_Spiritualized.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "200 Motels Finale",
+      "artist": "Frank Zappa",
+      "has_synced": false,
+      "path": "select/11_200_Motels_Finale_Frank_Zappa.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "200 Years Old",
+      "artist": "Frank Zappa / Captain Beefheart / The Mothers",
+      "has_synced": false,
+      "path": "select/12_200_Years_Old_Frank_Zappa___Captain_Beefheart___The_Mothers.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "200 Years Old",
+      "artist": "Frank Zappa, Captain Beefheart",
+      "has_synced": false,
+      "path": "select/13_200_Years_Old_Frank_Zappa,_Captain_Beefheart.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "A 200 Club",
+      "artist": "NOFX",
+      "has_synced": true,
+      "path": "select/14_A_200_Club_NOFX.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "200%",
+      "artist": "AKMU",
+      "has_synced": false,
+      "path": "select/pl_01_200_AKMU.txt"
+    }
+  ]
+}
